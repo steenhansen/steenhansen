@@ -18,7 +18,7 @@
 | |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 | **RUST** &nbsp; TUI, Ratatui                    <br>    [rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "click to see full screen size")  
 | **ELIXIR** &nbsp; Phoenix, LiveView, SVG      <br>    [elixir-liveview-snake][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size")  
-| **PYTHON**                   <br>    [python-podcast-downloader][ppd_g]    <br><br>   Console Python podcast downloader      |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.webp "click to see full screen size")  
+| **PYTHON**                   <br>    [python-podcast-downloader][ppd_g]    <br><br>   Console Python podcast downloader      |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.gif "click to see full screen size")  
 
 
 
