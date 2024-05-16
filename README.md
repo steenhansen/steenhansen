@@ -15,13 +15,14 @@
 
 | | |
 |-|-|
-| **RUST** &nbsp; TUI, Ratatui                    <br>    [GIT rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |     [<img src="./i/short-rust.webp" height="100">](./i/ratatui-run.gif "click to see full screen size")  
-| **ELIXIR** &nbsp; Phoenix, LiveView, SVG      <br>    [GIT elixir-liveview-snake][esg_g]      <br><br>    [LIVE multi-player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size")  
-| **RUST** &nbsp; TUI, Ratatui                    <br>    [GIT rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |     [<img src="./i/ratatui-run.gif" height="100">](./i/ratatui-run.gif "click to see full screen size")  
+| |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+| **RUST** &nbsp; TUI, Ratatui                    <br>    [rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "click to see full screen size")  
+| **ELIXIR** &nbsp; Phoenix, LiveView, SVG      <br>    [elixir-liveview-snake][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size")  
+| **PYTHON**                   <br>    [python-podcast-downloader][ppd_g]    <br><br>   Console Python podcast downloader      |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.webp "click to see full screen size")  
 
-952x238
-600*150
 
+
+[r_4_two_1]: https://play.google.com/952x238/600*150/
 
 
 [rec_a]: https://play.google.com/store/apps/details?id=com.fonecook3
