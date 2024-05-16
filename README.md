@@ -16,11 +16,11 @@
 | Project | Video  |
 | -        | - |
 | **RUST** TUI, Ratatui                    <br>    [GIT rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |     [<img src="./i/ratatui-run.gif" style ="object-fit: cover; object-position: 0px 10%;" height="100" width="400" >](./i/ratatui-run.gif "click to see full screen size")  
-| **ELIXIR**   Phoenix, LiveView, SVG      <br>    [GIT elixir-liveview-snake][esg_g]      <br><br>    [LIVE multi-player snake game ][esg_w]     |     [<img src="./i/list-elixir.webp" style ="object-fit: cover; object-position: 0px 16%;" height="100" width="444" >](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size")  
-| **ELIXIR**   Phoenix, LiveView, SVG      <br>    [GIT elixir-liveview-snake][esg_g]      <br><br>    [LIVE multi-player snake game ][esg_w]     |     <img src="./i/list-elixir.webp" style ="object-fit: cover; object-position: 0px 16%;" height="100" width="444" >
+| **ELIXIR**   Phoenix, LiveView, SVG      <br>    [GIT elixir-liveview-snake][esg_g]      <br><br>    [LIVE multi-player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size")  
+| **RUST** TUI, Ratatui                    <br>    [GIT rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |     [<img src="./i/ratatui-run.gif" style ="object-fit: cover; object-position: 0px 10%;" height="100" width="400" >](./i/ratatui-run.gif "click to see full screen size")  
 
 
-
+600*150
 
 [rec_a]: https://play.google.com/store/apps/details?id=com.fonecook3
 [rec_m]: https://github.com/steenhansen/react-native-phone-recipes#fast-start
