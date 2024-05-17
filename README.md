@@ -1,6 +1,4 @@
 
-<a name="s"></a>
-
 [ppd_g]: https://github.com/steenhansen/python-podcast-downloader#s
 [gpd_g]: https://github.com/steenhansen/go-podcast-downloader#s
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
@@ -10,8 +8,6 @@
 [esg_g]: https://github.com/steenhansen/elixir-liveview-snake#s
 
 [esg_w]: https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name
-
-<br>
 
 | | |
 |-|-|
