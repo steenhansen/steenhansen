@@ -39,14 +39,14 @@
         <td>
          &nbsp;</td>
         <td> 
-         <img src="./i/phone-recipes-app.png" width="188"><b</td>
+         <img src="./i/phone-recipes-app.png" width="189"><b</td>
         <td>        &nbsp;</td>
     </tr>
     <tr>
         <td>
          <img src="./i/selenium.png" width="200"><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium</a></td>
         <td> 
-         <img src="./i/storybook.png" width="188"><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook</a></td>
+         <img src="./i/storybook.png" width="189"><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook</a></td>
         <td>         <img src="./i/ci-cd.png" width="200"><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD</a></td>
     </tr>
 </table>
