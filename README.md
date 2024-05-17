@@ -1,8 +1,8 @@
 
 <a name="s"></a>
 
-[ppd_g]: https://github.com/steenhansen/python-podcast-downloader
-[gpd_g]: https://github.com/steenhansen/go-podcast-downloader#screen-shot
+[ppd_g]: https://github.com/steenhansen/python-podcast-downloader#s
+[gpd_g]: https://github.com/steenhansen/go-podcast-downloader#s
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
 [rpd_g]: https://github.com/steenhansen/rust-podcast-downloader#s
@@ -15,10 +15,43 @@
 
 | | |
 |-|-|
-| |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-| **RUST** &nbsp; TUI, Ratatui                    <br>    [rust-podcast-downloader][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "click to see full screen size")  
-| **ELIXIR** &nbsp; Phoenix, LiveView, SVG      <br>    [elixir-liveview-snake][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size")  
-| **PYTHON**                   <br>    [python-podcast-downloader][ppd_g]    <br><br>   Console Python podcast downloader      |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.gif "click to see full screen size")  
+| **RUST** &nbsp; TUI, Ratatui                    <br>    [GitHub][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "click to see full screen size")  
+
+<br>
+
+| | |
+|-| -|
+| **ELIXIR** &nbsp; Phoenix, LiveView <br>    [GitHub][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size") 
+
+<br>
+
+| | |
+|-|-|
+| **PYTHON**                   <br>    [GitHub][ppd_g]    <br><br>   Console Python podcast downloader      |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.gif "click to see full screen size")  
+
+<br>
+
+| |  | | |
+|-|-|-:|-|
+|  [<img src="./i/tall-phone-android.webp" width="200">](./i/tall-phone-android.webp "click to see full screen size")     |  **REACT NATIVE** <br> [GitHub][rec_m] <br>  [Google Play][rec_a] <br><br><br><br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br><br><br><br><br>**NODE.JS** <br> [GitHub][rec_g] <br>  [Live recipes][rec_w]  |[<img src="./i/tall-phone-web.gif" width="200">](./i/tall-phone-web.gif "click to see full screen size")  
+<table>
+    <tr>
+        <td>
+         &nbsp;</td>
+        <td> 
+         <img src="./i/phone-recipes-app.png" width="200"><b</td>
+        <td>        &nbsp;</td>
+    </tr>
+    <tr>
+        <td>
+         <img src="./i/selenium.png" width="200"><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium</a></td>
+        <td> 
+         <img src="./i/storybook.png" width="200"><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook</a></td>
+        <td>         <img src="./i/ci-cd.png" width="200"><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD</a></td>
+    </tr>
+</table>
+
+
 
 
 
