@@ -11,26 +11,25 @@
 
 | | |
 |-|-|
-| **RUST** &nbsp; TUI, Ratatui                    <br>    [GitHub][rpd_g]    <br><br>    Mouse driven Terminal User Interface       |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "click to see full screen size")  
-
-<br>
+| **RUST** &nbsp; Terminal UI, Ratatui    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Podcast downloader with_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_mouse driven Interface_<br> [Repo][rpd_g]              |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "Full size video")  
 
 | | |
 |-| -|
-| **ELIXIR** &nbsp; Phoenix, LiveView <br>    [GitHub][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "click to see full screen size") 
+| **ELIXIR** &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_<br>   [Repo][esg_g]      <br>  [Running site][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "Full size video") 
 
-<br>
 
 | | |
 |-|-|
-| **PYTHON**                   <br>    [GitHub][ppd_g]    <br><br>   Console Python podcast downloader      |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.gif "click to see full screen size")  
+| **PYTHON**     <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _Console podcast downloader_<br>    [Repo][ppd_g]   |     [<img src="./i/short-python.webp" height="100">](./i/tall-python.gif "Full size video")  
 
 <br>
+
+
 
 | | | | |
 |-|-|-:|-|
 |  <picture><img src="./i/recipes-app-code.png" width="189"></picture>|  | | |
-|  [<img src="./i/tall-phone-android.webp" width="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp "click to see full screen size")     |  **REACT NATIVE** <br> [GitHub][rec_m] <br>  [Google Play][rec_a] <br><br><br><br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br><br><br><br><br>**NODE.JS** <br> [GitHub][rec_g] <br>  [Live recipes][rec_w]  |[<img src="./i/tall-phone-web.gif" width="200">](./i/tall-phone-web.gif "click to see full screen size")  
+|  [<img src="./i/tall-phone-web.gif" width="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp "Full size video")     | **NODE.JS** <br>Vite-<br>plugin<br>-ssr<br> [Repo][rec_g] <br>  [Running site][rec_w] <br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br> **REACT NATIVE** <br> MongoDB <br> OAuth2<br> React-Hooks<br>Redux<br> [Repo][rec_m] <br>  [Google Play][rec_a]  |[<img src="./i/tall-phone-android.webp" width="200">](./i/tall-phone-web.gif "Full size video")  
 <table>
     <tr>
         <td><picture><img src="./i/recipes-app-tools.png" width="189"></picture></td>
@@ -39,33 +38,54 @@
     </tr>
     <tr>
         <td>
-         <picture><img src="./i/selenium.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium</a></td>
+         <picture><img src="./i/selenium.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
         <td> 
-         <picture><img src="./i/storybook.png" width="189"></picture><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook</a></td>
+         <picture><img src="./i/storybook.png" width="189"></picture><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
         <td>         
-        <picture><img src="./i/ci-cd.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD</a></td>
+        <picture><img src="./i/ci-cd.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
     </tr>
 </table>
 
+
 <br>
 
 | | |
 |-|-|
-| **GO** &nbsp; Fyne, Channels, goroutines                    <br>    [GitHub][gpd_g]    <br><br>   Console & GUI Go podcast downloader      |     [<img src="./i/short-go.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp "click to see full screen size")  
+| **GO** &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _go podcast downloader_<br>    [Repo][gpd_g]    <br>     |     [<img src="./i/short-go.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp "Full size video")  
 
 <br>
 
 
 | | |
 |-|-|
-| **RxJS** &nbsp; canvas. immutablejs               <br>    [GitHub][brk_g]    <br><br>   [LIVE multi ball breakout game][brk_w]     |     [<img src="./i/short-rxjs.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp "click to see full screen size")    
+| **RXJS** &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_multi ball breakout game_            <br>    [Repo][brk_g]    <br>   [Running site][brk_w]     |     [<img src="./i/short-rxjs.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp "Full size video")    
 
 
 
 <br>
 
 
+| | |
+|-|-|
+| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]     |     [<img src="./i/short-search.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
 
+
+
+| | |
+|-|-|
+| **GRAPHQL** &nbsp; MongoDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sgr_g]          <br>    [Sleeping site - 150sec wake up][sgr_w]     |     [<img src="./i/short-graph.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-graph.webp "Full size video")    
+
+| | |
+|-|-|
+| **LAZARUS** &nbsp; Delphi RAD, exe   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
+
+
+
+
+
+<br>
+
+  ts, hover , drag, isomorthphc, typeczech2456
 
 [r_4_two_1]: https://play.google.com/952x238/600*150/
 
