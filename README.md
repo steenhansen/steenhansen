@@ -82,14 +82,27 @@
 
 | | |
 |-|-|
-| **TYPESCRIPT** &nbsp; Websockets, Redux <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_multiplayer game_ <br>[Repo][dsk_g]   <br>    [Sleeping site - 150sec wake up][sgr_w]          |     [<img src="./i/short-typescript.gif" height="100">](./i/tall-typescript.gif "Full size video")    
+| **TYPESCRIPT** &nbsp; Websockets, Redux <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_multiplayer game_ <br>[Repo][elc_g]   <br>    [Sleeping site - 150sec wake up][elc_w]          |     [<img src="./i/short-typescript.gif" height="100">](./i/tall-typescript.gif "Full size video")    
 
 
+
+| | |
+|-|-|
+| **REACT** &nbsp; SSR, GraphicsMagick, Sharp-npm  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_automatic resizing image grid_ <br>[Repo][rhg_g]   <br>  [npm][rhg_n] <br>  [Sleeping site - 150sec wake up][rhg_w]          |     [<img src="./i/short-hover.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp "Full size video")    
+
+
+| | |
+|-|-|
+| **REACT** &nbsp; Component, Gulp <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_drag on/off/between Google Maps_ <br>[Repo][map_g]   <br>  [npm][map_n] <br>  [Sleeping site - 150sec wake up][map_w]          |     [<img src="./i/short-drag.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp "Full size video")    
+
+| | |
+|-|-|
+| **REACT** &nbsp; Responsive, Prototypes <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_SSR version of FixedDataTable_ <br>[Repo][iso_g]   <br>  [Running site][pod_h]          |     [<img src="./i/short-iso.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp "Full size video")    
 
 
 <br>
 
-  ts, hover , drag, isomorthphc, typeczech2456
+ isomorthphc, typeczech2456
 
 [r_4_two_1]: https://play.google.com/952x238/600*150/
 
