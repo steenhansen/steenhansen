@@ -29,20 +29,21 @@
 
 | | | | |
 |-|-|-:|-|
-|  <img src="./i/recipes-app-code.png" width="189">|  | | |
+|  <picture><img src="./i/recipes-app-code.png" width="189"></picture>|  | | |
 |  [<img src="./i/tall-phone-android.webp" width="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp "click to see full screen size")     |  **REACT NATIVE** <br> [GitHub][rec_m] <br>  [Google Play][rec_a] <br><br><br><br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br><br><br><br><br>**NODE.JS** <br> [GitHub][rec_g] <br>  [Live recipes][rec_w]  |[<img src="./i/tall-phone-web.gif" width="200">](./i/tall-phone-web.gif "click to see full screen size")  
 <table>
     <tr>
-        <td><img src="./i/recipes-app-tools.png" width="189"></td>
+        <td><picture><img src="./i/recipes-app-tools.png" width="189"></picture></td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
     </tr>
     <tr>
         <td>
-         <img src="./i/selenium.png" width="200"><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium</a></td>
+         <picture><img src="./i/selenium.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium</a></td>
         <td> 
-         <img src="./i/storybook.png" width="189"><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook</a></td>
-        <td>         <img src="./i/ci-cd.png" width="200"><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD</a></td>
+         <picture><img src="./i/storybook.png" width="189"></picture><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook</a></td>
+        <td>         
+        <picture><img src="./i/ci-cd.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD</a></td>
     </tr>
 </table>
 
