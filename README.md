@@ -27,16 +27,15 @@
 
 <br>
 
-| |  | | |
+| | | | |
 |-|-|-:|-|
+|  <img src="./i/recipes-app-code.png" width="189">|  | | |
 |  [<img src="./i/tall-phone-android.webp" width="200">](./i/tall-phone-android.webp "click to see full screen size")     |  **REACT NATIVE** <br> [GitHub][rec_m] <br>  [Google Play][rec_a] <br><br><br><br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br><br><br><br><br>**NODE.JS** <br> [GitHub][rec_g] <br>  [Live recipes][rec_w]  |[<img src="./i/tall-phone-web.gif" width="200">](./i/tall-phone-web.gif "click to see full screen size")  
 <table>
     <tr>
-        <td>
-         &nbsp;</td>
-        <td> 
-         <img src="./i/phone-recipes-app.png" width="189"><b</td>
-        <td>        &nbsp;</td>
+        <td><img src="./i/recipes-app-tools.png" width="189"></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
     <tr>
         <td>
