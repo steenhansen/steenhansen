@@ -56,6 +56,15 @@
 <br>
 
 
+| | |
+|-|-|
+| **RxJS** &nbsp; canvas. immutablejs               <br>    [GitHub][brk_g]    <br><br>   [LIVE multi ball breakout game][brk_w]     |     [<img src="./i/short-rxjs.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp "click to see full screen size")    
+
+
+
+<br>
+
+
 
 
 [r_4_two_1]: https://play.google.com/952x238/600*150/
@@ -74,7 +83,7 @@
 [can_w]: https://type-czech-canonical.onrender.com/#freehosting-wait-for-at-least-150-seconds
 
 
-[brk_g]: https://github.com/steenhansen/rxjs-breakout
+[brk_g]: https://github.com/steenhansen/rxjs-breakout#s
 [brk_w]: https://steenhansen.github.io/gh-pages/
 [sms_g]: https://github.com/steenhansen/crash-sms
 [lbl_g]: https://github.com/steenhansen/rxjs-label-maker
