@@ -77,8 +77,12 @@
 
 | | |
 |-|-|
-| **LAZARUS** &nbsp; Delphi RAD, exe   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
+| **LAZARUS** &nbsp; Delphi RAD, EXE  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
 
+
+| | |
+|-|-|
+| **TYPESCRIPT** &nbsp; Websockets, Redux <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_multiplayer game_ <br>[Repo][dsk_g]   <br>    [Sleeping site - 150sec wake up][sgr_w]          |     [<img src="./i/short-typescript.gif" height="100">](./i/tall-typescript.gif "Full size video")    
 
 
 
