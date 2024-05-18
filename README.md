@@ -17,7 +17,7 @@
 
 | | |
 |-| -|
-| **ELIXIR** &nbsp; Phoenix, LiveView <br>    [GitHub][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/list-elixir.webp "click to see full screen size") 
+| **ELIXIR** &nbsp; Phoenix, LiveView <br>    [GitHub][esg_g]      <br><br>  [LIVE multi player snake game ][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "click to see full screen size") 
 
 <br>
 
@@ -30,7 +30,7 @@
 | | | | |
 |-|-|-:|-|
 |  <img src="./i/recipes-app-code.png" width="189">|  | | |
-|  [<img src="./i/tall-phone-android.webp" width="200">](./i/tall-phone-android.webp "click to see full screen size")     |  **REACT NATIVE** <br> [GitHub][rec_m] <br>  [Google Play][rec_a] <br><br><br><br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br><br><br><br><br>**NODE.JS** <br> [GitHub][rec_g] <br>  [Live recipes][rec_w]  |[<img src="./i/tall-phone-web.gif" width="200">](./i/tall-phone-web.gif "click to see full screen size")  
+|  [<img src="./i/tall-phone-android.webp" width="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp "click to see full screen size")     |  **REACT NATIVE** <br> [GitHub][rec_m] <br>  [Google Play][rec_a] <br><br><br><br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br><br><br><br><br>**NODE.JS** <br> [GitHub][rec_g] <br>  [Live recipes][rec_w]  |[<img src="./i/tall-phone-web.gif" width="200">](./i/tall-phone-web.gif "click to see full screen size")  
 <table>
     <tr>
         <td><img src="./i/recipes-app-tools.png" width="189"></td>
