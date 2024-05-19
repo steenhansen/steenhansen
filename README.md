@@ -3,6 +3,56 @@
 [gpd_g]: https://github.com/steenhansen/go-podcast-downloader#s
 [gdo_w]: https://github.com/steenhansen/go-podcast-downloader/raw/main/Gui-Podcast-Downloader.exe.zip
 
+| | |
+|-| -|
+| **ELIXIR** &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_<br>   [Repo][esg_g]      <br>  [Running site][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "Full size video") 
+<table>
+ <tr>
+    <td width="200"></td>
+    <td width="80"></td>
+    <td width="80"></td>
+    <td width="200"></td>
+    </tr>
+ <tr>
+        <td>
+             Web & Mobile Recipes App<br>
+            <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/i/tall-phone-web.gif" title="Full size video">
+                <img src="./i/tall-phone-web.gif" width="200">
+            </a>        
+        </td>
+        <td><b>NODE.JS</b><br>
+            Vite SSR<br>
+            Mocha<br>
+            Vitest JSX<br>
+            <a href="https://github.com/steenhansen/type-czech-phone-recipes#s">Repo</a> <br> 
+            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running site</a>
+            <br><br><br><br><br><br><br><br><br><br>
+        </td>
+        <td align="right"><br><br><br><br><br><br>
+            <b>REACT NATIVE</b><br>
+            MongoDB <br> 
+            OAuth2<br> 
+            React-Hooks<br>
+            Redux<br>
+            <a href="https://github.com/steenhansen/react-native-phone-recipes#s">Repo</a><br>
+            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google Play</a>
+        </td>
+        <td>
+            <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
+                 <img src="./i/tall-phone-android.webp" width="200">
+            </a>
+        </td>
+    </tr>
+   <tr>
+        <td align="center"><br><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
+        <td colspan="2"  align="center"> Tools<br><picture><img src="./i/storybook.png" width="200">&nbsp;</picture><br><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
+        <td  align="center"><br><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
+    </tr>
+</table>
+
+
+
+
 [rpd_g]: https://github.com/steenhansen/rust-podcast-downloader#s
 
 [esg_g]: https://github.com/steenhansen/elixir-liveview-snake#s
@@ -13,9 +63,6 @@
 |-|-|
 | **RUST** &nbsp; Terminal UI, Ratatui    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Podcast downloader with_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_mouse driven Interface_<br> [Repo][rpd_g]              |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "Full size video")  
 
-| | |
-|-| -|
-| **ELIXIR** &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_<br>   [Repo][esg_g]      <br>  [Running site][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "Full size video") 
 
 
 | | |
@@ -24,30 +71,6 @@
 
 <br>
 
-
-
-| | | | |
-|-|-|-:|-|
-|  <picture><img src="./i/recipes-app-code.png" width="189"></picture>|  | | |
-|  [<img src="./i/tall-phone-web.gif" width="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp "Full size video")     | **NODE.JS** <br>Vite-<br>plugin<br>-ssr<br> [Repo][rec_g] <br>  [Running site][rec_w] <br><br><br><br><br><br><br><br><br><br><br> | <br><br><br><br><br><br><br><br> **REACT NATIVE** <br> MongoDB <br> OAuth2<br> React-Hooks<br>Redux<br> [Repo][rec_m] <br>  [Google Play][rec_a]  |[<img src="./i/tall-phone-android.webp" width="200">](./i/tall-phone-web.gif "Full size video")  
-<table>
-    <tr>
-        <td><picture><img src="./i/recipes-app-tools.png" width="189"></picture></td>
-        <td>&nbsp;</td>
-        <td>&nbsp;</td>
-    </tr>
-    <tr>
-        <td>
-         <picture><img src="./i/selenium.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
-        <td> 
-         <picture><img src="./i/storybook.png" width="189">&nbsp;</picture><br> <a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
-        <td>         
-        <picture><img src="./i/ci-cd.png" width="200"></picture><br> <a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
-    </tr>
-</table>
-
-
-<br>
 
 | | |
 |-|-|
@@ -108,7 +131,6 @@
 | **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp "Full size video")    
 <br>
 
- typeczech2456
 
 [r_4_two_1]: https://play.google.com/952x238/600*150/
 
