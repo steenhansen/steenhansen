@@ -25,19 +25,19 @@
             Mocha<br>
             Vitest JSX<br>
             <a href="https://github.com/steenhansen/type-czech-phone-recipes#s">Repo</a> <br> 
-            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running site</a><br>
+            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running&nbsp;site</a><br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br><br><br><br><br><br><br><br><br>
         </td>
         <td align="right"><br><br><br><br><br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-            <b>REACT NATIVE</b><br>
+            <b>REACT&nbsp;NATIVE</b><br>
             MongoDB <br> 
             OAuth2<br> 
             React-Hooks<br>
             Redux<br>
             <a href="https://github.com/steenhansen/react-native-phone-recipes#s">Repo</a><br>
-            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google Play</a>
+            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a>
         </td>
         <td>
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
