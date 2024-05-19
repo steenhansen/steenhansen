@@ -72,6 +72,12 @@
 | **GO** &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _go podcast downloader_<br>    [Repo][gpd_g]    <br>     |     [<img src="./i/short-go.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp "Full size video")  
 
 
+[dsk_g]: https://github.com/steenhansen/podcast-downloader#s
+
+| | |
+|-|-|
+| **LAZARUS** &nbsp; Delphi RAD, EXE  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
+
 
 [brk_g]: https://github.com/steenhansen/rxjs-breakout#s
 [brk_w]: https://steenhansen.github.io/gh-pages/
@@ -85,10 +91,12 @@
 [sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose#s
 [swi_d]: https://hub.docker.com/r/steenhansen/sff-audio-search
 [sli_w]: http://45.79.183.31/?author=isaac-asimov
+[sku_g]: https://github.com/steenhansen/sffaudio-search-kubernetes#s
+[sku_d]: https://hub.docker.com/r/steenhansen/sff-audio-kube
 
 | | |
 |-|-|
-| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]     |     [<img src="./i/short-search.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
+| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]   <br><br> **KUBERNETES** <br> [Repo][sku_g]<br>  [DockerHub][sku_d]|     [<img src="./i/short-search.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
 
 
 [sgr_g]: https://github.com/steenhansen/sffaudio-graph-ql#s
@@ -98,12 +106,6 @@
 |-|-|
 | **GRAPHQL** &nbsp; MongoDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sgr_g]          <br>    [Sleeping site - 150sec wake up][sgr_w]     |     [<img src="./i/short-graph.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-graph.webp "Full size video")    
 
-
-[dsk_g]: https://github.com/steenhansen/podcast-downloader#s
-
-| | |
-|-|-|
-| **LAZARUS** &nbsp; Delphi RAD, EXE  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
 
 
 [elc_g]: https://github.com/steenhansen/electric-snakes#s
@@ -174,8 +176,6 @@
 [sli_m]: http://45.79.183.31/?book=sci-fi-private-eye&author=isaac-asimov,robert-silverberg,poul-anderson,fred-saberhagen,edward-wellen,philip-k-dick
 [sli_r]: http://45.79.183.31/?book=beyond-lies-the-wub&author=philip-k-dick&view=rsd&choice=1
 [swi_g]: https://github.com/steenhansen/sffaudio-search-docker-run
-[sku_g]: https://github.com/steenhansen/sffaudio-search-kubernetes
-[sku_d]: https://hub.docker.com/r/steenhansen/sff-audio-kube
 [sgr_j]: https://sffaudio-graph-ql.onrender.com/graphql?operationName=serch_ql&query=%0Aquery%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%7D%2C%0A%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%7D%2C%0A%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20book%20%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%20about%0A%20possiblebook%7B%20author%20title%20%7D%0A%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%7D%2C%0A%20...%20on%20PdfMedia%20%7B%20ID%0A%20book%20%7B%20author%20title%20%7D%0A%20issues%20%7B%20url%20publisher%20pages%20%7D%20%7D%0A%20%7D%0A%7D%20&variables=%7B%20%22search_parameter%22%3A%20%22clarke%22%7D
 [rsd_h]: https://sffaudio.herokuapp.com/rsd/table
 [pod_s]: https://docs.google.com/spreadsheets/d/1cWtA1AaY83cBuU_6vt64adDeR-dfT-X1U5VgvCRVMAg/edit#gid=0
