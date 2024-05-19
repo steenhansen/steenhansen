@@ -26,11 +26,9 @@
             Vitest JSX<br>
             <a href="https://github.com/steenhansen/type-czech-phone-recipes#s">Repo</a> <br> 
             <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running&nbsp;site</a><br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br><br><br><br><br><br><br><br><br>
         </td>
-        <td align="right"><br><br><br><br><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+        <td align="right"><br><br><br><br><br><br>
             <b>REACT&nbsp;NATIVE</b><br>
             MongoDB <br> 
             OAuth2<br> 
@@ -47,7 +45,7 @@
     </tr>
    <tr>
         <td align="center"><br><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
-        <td colspan="2"  align="center"> Tools<br><picture><img src="./i/storybook.png" width="200">&nbsp;</picture><br><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
+        <td colspan="2"  align="center"> Tools<br><picture><img src="./i/storybook.png" width="200">&nbsp;</picture><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
         <td  align="center"><br><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
     </tr>
 </table>
