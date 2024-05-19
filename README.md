@@ -100,9 +100,15 @@
 | **REACT** &nbsp; Responsive, Prototypes <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_SSR version of FixedDataTable_ <br>[Repo][iso_g]   <br>  [Running site][pod_h]          |     [<img src="./i/short-iso.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp "Full size video")    
 
 
+
+
+
+| | |
+|-|-|
+| **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](./i/tall-czech.webp "Full size video")    
 <br>
 
- isomorthphc, typeczech2456
+ typeczech2456
 
 [r_4_two_1]: https://play.google.com/952x238/600*150/
 
