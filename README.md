@@ -105,7 +105,7 @@
 
 | | |
 |-|-|
-| **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](./i/tall-czech.webp "Full size video")    
+| **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp "Full size video")    
 <br>
 
  typeczech2456
