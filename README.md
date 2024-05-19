@@ -9,8 +9,8 @@
 <table>
  <tr>
     <td width="200"></td>
-    <td width="80"></td>
-    <td width="80"></td>
+    <td width="90"></td>
+    <td width="90"></td>
     <td width="200"></td>
     </tr>
  <tr>
