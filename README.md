@@ -4,7 +4,7 @@
 
 | | |
 |-| -|
-| **ELIXIR** &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_<br>   [Repo][esg_g]      <br>  [Running site][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "Full size video") 
+| **ELIXIR** &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_<br>   [Repo][esg_g]      <br>  [Running site][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "Full size video") 
 
 <table>
  <tr>
@@ -69,14 +69,14 @@
 
 | | |
 |-|-|
-| **GO** &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _go podcast downloader_<br>    [Repo][gpd_g]    <br>     |     [<img src="./i/short-go.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp "Full size video")  
+| **GO** &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _Go podcast downloader_<br>    [Repo][gpd_g]    <br>     |     [<img src="./i/short-go.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp "Full size video")  
 
 
 [dsk_g]: https://github.com/steenhansen/podcast-downloader#s
 
 | | |
 |-|-|
-| **LAZARUS** &nbsp; Delphi RAD, EXE  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
+| **LAZARUS** &nbsp; Delphi RAD, EXE  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
 
 
 [brk_g]: https://github.com/steenhansen/rxjs-breakout#s
@@ -84,7 +84,7 @@
 
 | | |
 |-|-|
-| **RXJS** &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_multi ball breakout game_            <br>    [Repo][brk_g]    <br>   [Running site][brk_w]     |     [<img src="./i/short-rxjs.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp "Full size video")    
+| **RXJS** &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multi ball breakout game_            <br>    [Repo][brk_g]    <br>   [Running site][brk_w]     |     [<img src="./i/short-rxjs.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp "Full size video")    
 
 
 
@@ -96,7 +96,7 @@
 
 | | |
 |-|-|
-| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]   <br><br> **KUBERNETES** <br> [Repo][sku_g]<br>  [DockerHub][sku_d]|     [<img src="./i/short-search.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
+| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]   <br><br> **KUBERNETES** <br> [Repo][sku_g]<br>  [DockerHub][sku_d]|     [<img src="./i/short-search.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
 
 
 [sgr_g]: https://github.com/steenhansen/sffaudio-graph-ql#s
@@ -104,7 +104,7 @@
 
 | | |
 |-|-|
-| **GRAPHQL** &nbsp; MongoDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_audiobook search_ <br>[Repo][sgr_g]          <br>    [Sleeping site - 150sec wake up][sgr_w]     |     [<img src="./i/short-graph.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-graph.webp "Full size video")    
+| **GRAPHQL** &nbsp; MongoDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Audiobook search_ <br>[Repo][sgr_g]          <br>    [Sleeping site - 150sec wake up][sgr_w]     |     [<img src="./i/short-graph.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-graph.webp "Full size video")    
 
 
 
@@ -113,7 +113,7 @@
 
 | | |
 |-|-|
-| **TYPESCRIPT** &nbsp; Websockets, Redux <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_multiplayer game_ <br>[Repo][elc_g]   <br>    [Sleeping site - 150sec wake up][elc_w]          |     [<img src="./i/short-typescript.gif" height="100">](./i/tall-typescript.gif "Full size video")    
+| **TYPESCRIPT** &nbsp; Websockets, Redux <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_ <br>[Repo][elc_g]   <br>    [Sleeping site - 150sec wake up][elc_w]          |     [<img src="./i/short-typescript.gif" height="100">](./i/tall-typescript.gif "Full size video")    
 
 
 [rhg_g]: https://github.com/steenhansen/react-hover-grid#s
@@ -122,7 +122,7 @@
 
 | | |
 |-|-|
-| **REACT** &nbsp; SSR, GraphicsMagick, Sharp-npm  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_automatic resizing image grid_ <br>[Repo][rhg_g]   <br>  [npm][rhg_n] <br>  [Sleeping site - 150sec wake up][rhg_w]          |     [<img src="./i/short-hover.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp "Full size video")    
+| **REACT** &nbsp; SSR, GraphicsMagick, Sharp-npm  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Automatic resizing image grid_ <br>[Repo][rhg_g]   <br>  [npm][rhg_n] <br>  [Sleeping site - 150sec wake up][rhg_w]          |     [<img src="./i/short-hover.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp "Full size video")    
 
 
 [map_g]: https://github.com/steenhansen/gmap-dragdrop-react#s
@@ -131,7 +131,7 @@
 
 | | |
 |-|-|
-| **REACT** &nbsp; Component, Gulp <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_drag on/off/between Google Maps_ <br>[Repo][map_g]   <br>  [npm][map_n] <br>  [Sleeping site - 150sec wake up][map_w]          |     [<img src="./i/short-drag.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp "Full size video")    
+| **REACT** &nbsp; Component, Gulp <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Drag on/off/between Google Maps_ <br>[Repo][map_g]   <br>  [npm][map_n] <br>  [Sleeping site - 150sec wake up][map_w]          |     [<img src="./i/short-drag.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp "Full size video")    
 
 
 [iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku#s
@@ -149,7 +149,7 @@
 
 | | |
 |-|-|
-| **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp "Full size video")    
+| **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp "Full size video")    
 
 
 
