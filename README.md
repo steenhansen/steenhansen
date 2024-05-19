@@ -20,15 +20,17 @@
                 <img src="./i/tall-phone-web.gif" width="200">
             </a>        
         </td>
-        <td><b>NODE.JS</b><br>
+        <td><br><b>NODE.JS</b><br>
             Vite SSR<br>
             Mocha<br>
             Vitest JSX<br>
             <a href="https://github.com/steenhansen/type-czech-phone-recipes#s">Repo</a> <br> 
-            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running site</a>
-            <br><br><br><br><br><br><br><br><br><br>
+            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running site</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br><br><br><br><br><br><br><br><br>
         </td>
-        <td align="right"><br><br><br><br><br><br>
+        <td align="right"><br><br><br><br><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
             <b>REACT NATIVE</b><br>
             MongoDB <br> 
             OAuth2<br> 
