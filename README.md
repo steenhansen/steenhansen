@@ -23,7 +23,7 @@
     </tr>
  <tr>
         <td>
-            <img src="./i/google-icon-48.png" width="24"> &nbsp;&nbsp;&nbsp;<i>Web & Mobile Recipes App</i><br>
+            <img src="./i/google-icon-48.png" width="24"><i>Web & Mobile Recipes App</i><br>
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-web.gif" title="Full size video">
                 <img src="./i/tall-phone-web.gif" width="200">
             </a>        
