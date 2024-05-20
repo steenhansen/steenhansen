@@ -37,14 +37,14 @@
             <br><br><br><br><br><br><br><br><br>
         </td>
         <td align="right">
-        <br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br>
             <b>REACT&nbsp;NATIVE</b><br>
             MongoDB <br> 
             OAuth2<br> 
             React&nbsp;Hooks<br>
             Redux<br>
             <a href="https://github.com/steenhansen/react-native-phone-recipes/#s">Repo</a><br>
-            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br>
+            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br><br>
             <img src="./i/google-icon-48.png" width="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
         <td align="center">
