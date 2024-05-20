@@ -1,6 +1,6 @@
 <a name="s"></a>
 
-[esg_g]: https://github.com/steenhansen/elixir-liveview-snake/#s
+[esg_g]: https://github.com/steenhansen/elixir-liveview-snake#s
 [esg_w]: https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name
 
 | | |
