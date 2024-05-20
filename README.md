@@ -23,7 +23,7 @@
     </tr>
  <tr>
         <td>
-            <img src="./i/google-icon-48.png" width="24"><i>Web & Mobile Recipes App</i><br>
+            <i>Web & Mobile Recipes App</i><br>
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-web.gif" title="Full size video">
                 <img src="./i/tall-phone-web.gif" width="200">
             </a>        
@@ -37,16 +37,17 @@
             <br><br><br><br><br><br><br><br><br>
         </td>
         <td align="right">
-        <br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br>
             <b>REACT&nbsp;NATIVE</b><br>
             MongoDB <br> 
             OAuth2<br> 
             React&nbsp;Hooks<br>
             Redux<br>
             <a href="https://github.com/steenhansen/react-native-phone-recipes/#s">Repo</a><br>
-            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a>
+            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br>
+            <img src="./i/google-icon-48.png" width="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
-        <td>
+        <td align="center">
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
                  <img src="./i/tall-phone-android.webp" width="200">
             </a>
