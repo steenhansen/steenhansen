@@ -22,18 +22,10 @@
     <td width="200"> &nbsp; </td>
     </tr>
  <tr>
-        <td>
-           &nbsp;    
-        </td>
-       <td>
-           &nbsp;    
-        </td>
-        <td>
-           &nbsp;    
-        </td>
-        <td>
-           &nbsp;    
-        </td>
+        <td width="200"> &nbsp; </td>
+    <td width="90"> &nbsp; </td>
+    <td width="90"> &nbsp; </td>
+    <td width="200"> &nbsp; </td>
     </tr>
    <tr>
   <td align="center"><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
