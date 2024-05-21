@@ -16,10 +16,10 @@
 
 <table>
  <tr>
-    <td width="200"></td>
-    <td width="90"></td>
-    <td width="90"></td>
-    <td width="200"></td>
+    <td width="200"> &nbsp; </td>
+    <td width="90"> &nbsp; </td>
+    <td width="90"> &nbsp; </td>
+    <td width="200"> &nbsp; </td>
     </tr>
  <tr>
         <td>
