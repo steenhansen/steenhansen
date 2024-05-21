@@ -2,9 +2,22 @@
 [esg_g]: https://github.com/steenhansen/elixir-liveview-snake#s
 [esg_w]: https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name
 
-| | |
-|-| -|
-| **ELIXIR** &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_<br>   [Repo][esg_g]      <br>  [Running site][esg_w]     |     [<img src="./i/short-elixir.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp "Full size video") 
+
+<table>
+ <tr>
+       <td width="180">
+        <b>ELIXIR</b> &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
+        <a href="https://github.com/steenhansen/elixir-liveview-snake#s">Repo</a><br>
+        <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name">Running site</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp" title="Full size video">
+                <img src="./i/short-elixir.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
+
 
 
 [rpd_g]: https://github.com/steenhansen/rust-podcast-downloader#s
@@ -16,19 +29,13 @@
 
 <table>
  <tr>
-    <td width="200"></td>
-    <td width="90"></td>
-    <td width="90"></td>
-    <td width="200"></td>
-    </tr>
- <tr>
-        <td>
+       <td width="200">
             <i>Web & Mobile Recipes App</i><br>
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-web.gif" title="Full size video">
                 <img src="./i/tall-phone-web.gif" width="200">
             </a>        
         </td>
-        <td><br><b>NODE.JS</b><br>
+        <td width="90"><br><b>NODE.JS</b><br>
             Vite SSR<br>
             Mocha<br>
             Vitest JSX<br>
@@ -36,7 +43,7 @@
             <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running&nbsp;site</a><br>
             <br><br><br><br><br><br><br><br><br>
         </td>
-        <td align="right">
+        <td width="90" align="right">
         <br><br><br><br><br><br><br>
             <b>REACT&nbsp;NATIVE</b><br>
             MongoDB <br> 
@@ -47,14 +54,14 @@
             <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br><br>
             <img src="./i/google-icon-48.png" width="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
-        <td align="center">
+        <td width="200" align="center">
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
                  <img src="./i/tall-phone-android.webp" width="200">
             </a>
         </td>
     </tr>
    <tr>
-        <td align="center"><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
+  <td align="center"><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
         <td colspan="2"  align="center"><picture><img src="./i/storybook.png" width="200">&nbsp;</picture><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
         <td  align="center"><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
     </tr>
