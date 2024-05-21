@@ -16,16 +16,42 @@
 
 <table>
  <tr>
-    <td width="200"> &nbsp; </td>
-    <td width="90"> &nbsp; </td>
-    <td width="90"> &nbsp; </td>
-    <td width="200"> &nbsp; </td>
+    <td width="200"></td>
+    <td width="90"></td>
+    <td width="90"></td>
+    <td width="200"></td>
     </tr>
  <tr>
-        <td width="200"> &nbsp; </td>
-    <td width="90"> &nbsp; </td>
-    <td width="90"> &nbsp; </td>
-    <td width="200"> &nbsp; </td>
+       <td>
+            <i>Web & Mobile Recipes App</i><br>
+            <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-web.gif" title="Full size video">
+                <img src="./i/tall-phone-web.gif" width="200">
+            </a>        
+        </td>
+        <td><br><b>NODE.JS</b><br>
+            Vite SSR<br>
+            Mocha<br>
+            Vitest JSX<br>
+            <a href="https://github.com/steenhansen/type-czech-phone-recipes#s">Repo</a> <br> 
+            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running&nbsp;site</a><br>
+            <br><br><br><br><br><br><br><br><br>
+        </td>
+        <td align="right">
+        <br><br><br><br><br><br><br>
+            <b>REACT&nbsp;NATIVE</b><br>
+            MongoDB <br> 
+            OAuth2<br> 
+            React&nbsp;Hooks<br>
+            Redux<br>
+            <a href="https://github.com/steenhansen/react-native-phone-recipes#s">Repo</a><br>
+            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br><br>
+            <img src="./i/google-icon-48.png" width="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center">
+            <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
+                 <img src="./i/tall-phone-android.webp" width="200">
+            </a>
+        </td>
     </tr>
    <tr>
   <td align="center"><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
