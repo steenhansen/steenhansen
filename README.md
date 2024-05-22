@@ -19,7 +19,7 @@
 
 <table>
  <tr>
-       <td width="220">
+       <td width="230">
         <b>RUST</b> &nbsp; Terminal UI, Ratatui<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Podcast downloader with</i><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>mouse driven Interface</i><br>
