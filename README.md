@@ -5,7 +5,7 @@
 
 <table>
  <tr>
-       <td width="180">
+       <td width="200">
         <b>ELIXIR</b> &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
         <a href="https://github.com/steenhansen/elixir-liveview-snake#s">Repo</a><br>
         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name">Running site</a>
