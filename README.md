@@ -34,13 +34,6 @@
 </table>
 
 
-[rpd_g]: https://github.com/steenhansen/rust-podcast-downloader#s
-
-| | |
-|-|-|
-| **RUST** &nbsp; Terminal UI, Ratatui    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Podcast downloader with_<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_mouse driven Interface_<br> [Repo][rpd_g]              |[<img src="./i/short-rust.webp" height="100" width="400">](./i/tall-rust.gif "Full size video")  
-
-
 <table>
  <tr>
        <td width="200">
