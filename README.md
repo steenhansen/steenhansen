@@ -171,13 +171,13 @@
   
 <table>
  <tr>
-       <td width="280">
+       <td width="290">
         <b>REACT</b>  &nbsp; SSR, GraphicsMagick, Sharp   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/react-hover-grid#s">Repo</a><br>
         <a href="https://www.npmjs.com/package/react-hover-grid">npm</a><br>
         <a href="https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
         </td>
-        <td width="380">
+        <td width="370">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp" title="Full size video">
                 <img src="./i/short-hover.webp" height="100">
             </a>      
