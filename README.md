@@ -140,13 +140,21 @@
 </table>
 
 
+<table>
+ <tr>
+       <td width="260">
+        <b>TYPESCRIPT</b>  &nbsp; Websockets, Redux   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
+        <a href="https://github.com/steenhansen/electric-snakes#s">Repo</a><br>
+        <a href="https://electric-snakes.onrender.com/create-game/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        </td>
+        <td width="400">
+         <a href="https://raw.githubusercontent.com/steenhansen/steenhansen/main/i/tall-typescript.gif" title="Full size video">
+                <img src="./i/short-typescript.gif" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
 
-[elc_g]: https://github.com/steenhansen/electric-snakes#s
-[elc_w]: https://electric-snakes.onrender.com/create-game/#freehosting-wait-for-at-least-150-seconds
-
-| | |
-|-|-|
-| **TYPESCRIPT** &nbsp; Websockets, Redux <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multiplayer game_ <br>[Repo][elc_g]   <br>    [Sleeping site - 150sec wake up][elc_w]          |     [<img src="./i/short-typescript.gif" height="100">](./i/tall-typescript.gif "Full size video")    
 
 
 [dsk_g]: https://github.com/steenhansen/podcast-downloader#s
