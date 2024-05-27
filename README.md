@@ -89,7 +89,7 @@
 
 <table>
  <tr>
-       <td width="200">
+       <td width="260">
         <b>RXJS</b>  &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/rxjs-breakout#s">Repo</a><br>
         <a href="https://steenhansen.github.io/gh-pages/">Running site</a>
