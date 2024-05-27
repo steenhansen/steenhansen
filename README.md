@@ -155,13 +155,20 @@
     </tr>
 </table>
 
-
-
-[dsk_g]: https://github.com/steenhansen/podcast-downloader#s
-
-| | |
-|-|-|
-| **LAZARUS** &nbsp; Delphi RAD, EXE  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Podcast downloader_ <br>[Repo][dsk_g]            |     [<img src="./i/short-delphi.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp "Full size video")    
+<table>
+ <tr>
+       <td width="260">
+        <b>LAZARUS</b>  &nbsp; Delphi RAD, EXE    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>podcast downloader</i><br>  
+        <a href="https://github.com/steenhansen/podcast-downloader#s">Repo</a><br><br>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp" title="Full size video">
+                <img src="./i/short-delphi.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
+  
 
 
 [rhg_g]: https://github.com/steenhansen/react-hover-grid#s
