@@ -1,7 +1,4 @@
 
-[esg_g]: https://github.com/steenhansen/elixir-liveview-snake#s
-[esg_w]: https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name
-
 <table>
  <tr>
        <td width="200">
@@ -75,23 +72,36 @@
 </table>
 
 
+<table>
+ <tr>
+       <td width="200">
+        <b>GO</b>  &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <i>podcast downloader</i><br>  
+        <a href="https://github.com/steenhansen/go-podcast-downloader#s">Repo</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp" title="Full size video">
+                <img src="./i/short-go.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
 
 
+<table>
+ <tr>
+       <td width="200">
+        <b>RXJS</b>  &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
+        <a href="https://github.com/steenhansen/rxjs-breakout#s">Repo</a><br>
+        <a href="https://steenhansen.github.io/gh-pages/">Running site</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp" title="Full size video">
+                <img src="./i/short-rxjs.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
 
-[gpd_g]: https://github.com/steenhansen/go-podcast-downloader#s
-
-| | |
-|-|-|
-| **GO** &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _Go podcast downloader_<br>    [Repo][gpd_g]    <br>     |     [<img src="./i/short-go.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp "Full size video")  
-
-
-
-[brk_g]: https://github.com/steenhansen/rxjs-breakout#s
-[brk_w]: https://steenhansen.github.io/gh-pages/
-
-| | |
-|-|-|
-| **RXJS** &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Multi ball breakout game_            <br>    [Repo][brk_g]    <br>   [Running site][brk_w]     |     [<img src="./i/short-rxjs.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp "Full size video")    
 
 
 
