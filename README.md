@@ -171,13 +171,13 @@
   
 <table>
  <tr>
-       <td width="300">
+       <td width="260">
         <b>REACT</b>  &nbsp; SSR, GraphicsMagick, Sharp   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/react-hover-grid#s">Repo</a><br>
         <a href="https://www.npmjs.com/package/react-hover-grid">npm</a><br>
         <a href="https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
         </td>
-        <td width="360">
+        <td width="400">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp" title="Full size video">
                 <img src="./i/short-hover.webp" height="100">
             </a>      
@@ -187,13 +187,22 @@
 
 
 
-[map_g]: https://github.com/steenhansen/gmap-dragdrop-react#s
-[map_n]: https://www.npmjs.com/package/gmap-dragdrop-react
-[map_w]: https://gmap-dragdrop-examples.onrender.com/maps#freehosting-wait-for-at-least-150-seconds
+<table>
+ <tr>
+       <td width="260">
+        <b>REACT</b>  &nbsp; Component, Gulp  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Drag on/off/between<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps</i><br>  
+        <a href="https://github.com/steenhansen/gmap-dragdrop-react#s">Repo</a><br>
+        <a href="https://www.npmjs.com/package/gmap-dragdrop-react">npm</a><br>
+        <a href="https://gmap-dragdrop-examples.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp" title="Full size video">
+                <img src="./i/short-drag.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
 
-| | |
-|-|-|
-| **REACT** &nbsp; Component, Gulp <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Drag on/off/between Google Maps_ <br>[Repo][map_g]   <br>  [npm][map_n] <br>  [Sleeping site - 150sec wake up][map_w]          |     [<img src="./i/short-drag.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp "Full size video")    
 
 
 [iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku#s
