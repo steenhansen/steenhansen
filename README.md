@@ -206,13 +206,13 @@
 
 <table>
  <tr>
-       <td width="240">
+       <td width="260">
         <b>REACT</b>  &nbsp; Responsive, Prototypes   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>SSR version of
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FixedDataTable</i><br>  
         <a href="https://github.com/steenhansen/Isomorphic-React-on-Heroku#s">Repo</a><br>
         <a href="https://sffaudio.herokuapp.com/podcast/table/">Running site</a>
         </td>
-        <td width="420">
+        <td width="400">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp" title="Full size video">
                 <img src="./i/short-iso.webp" height="100">
             </a>      
