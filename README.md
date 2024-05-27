@@ -204,19 +204,15 @@
 </table>
 
 
-
-[iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku#s
-[pod_h]: https://sffaudio.herokuapp.com/podcast/table
-
 <table>
  <tr>
-       <td width="260">
+       <td width="240">
         <b>REACT</b>  &nbsp; Responsive, Prototypes   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>SSR version of
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FixedDataTable</i><br>  
         <a href="https://github.com/steenhansen/Isomorphic-React-on-Heroku#s">Repo</a><br>
         <a href="https://sffaudio.herokuapp.com/podcast/table/">Running site</a>
         </td>
-        <td width="400">
+        <td width="420">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp" title="Full size video">
                 <img src="./i/short-iso.webp" height="100">
             </a>      
@@ -225,19 +221,22 @@
 </table>
 
 
-| | |
-|-|-|
-| **REACT** &nbsp; Responsive, Prototypes <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_SSR version of FixedDataTable_ <br>[Repo][iso_g]   <br>  [Running site][pod_h]          |     [<img src="./i/short-iso.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp "Full size video")    
 
-
-
-[aon_w]: https://type-czech-always-on.onrender.com/#freehosting-wait-for-at-least-150-seconds
-[tcz_g]: https://github.com/steenhansen/type-czech#s
-[tcz_n]: https://www.npmjs.com/package/type-czech
-
-| | |
-|-|-|
-| **JAVASCRIPT** &nbsp; Proxy Object <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Type checking via functions_ <br>[Repo][tcz_g]   <br>  [npm][tcz_n] <br>  [Sleeping site - 150sec wake up][aon_w]          |     [<img src="./i/tall-czech.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp "Full size video")    
+<table>
+ <tr>
+       <td width="260">
+        <b>JAVASCRIPT</b>  &nbsp; Proxy Object  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Type checking<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;via functions</i><br>  
+        <a href="https://github.com/steenhansen/type-czech#s">Repo</a><br>
+        <a href="https://www.npmjs.com/package/type-czech">npm</a><br>
+        <a href="https://type-czech-always-on.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp" title="Full size video">
+                <img src="./i/tall-czech.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
 
 
 [ppd_g]: https://github.com/steenhansen/python-podcast-downloader#s
