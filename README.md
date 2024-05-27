@@ -172,7 +172,7 @@
 <table>
  <tr>
        <td width="300">
-        <b>REACT</b>  &nbsp; SSR, GraphicsMagick, Sharp-npm   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
+        <b>REACT</b>  &nbsp; SSR, GraphicsMagick, Sharp   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/react-hover-grid#s">Repo</a><br>
         <a href="https://www.npmjs.com/package/react-hover-grid">npm</a><br>
         <a href="https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
