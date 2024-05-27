@@ -1,7 +1,7 @@
 
 <table>
  <tr>
-       <td width="240">
+       <td width="260">
         <b>ELIXIR</b> &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
         <a href="https://github.com/steenhansen/elixir-liveview-snake#s">Repo</a><br>
         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name">Running site</a>
@@ -16,7 +16,7 @@
 
 <table>
  <tr>
-       <td width="250">
+       <td width="260">
         <b>RUST</b> &nbsp; Terminal UI, Ratatui<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Podcast downloader with</i><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>mouse driven Interface</i><br>
