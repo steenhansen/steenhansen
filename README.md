@@ -169,15 +169,22 @@
     </tr>
 </table>
   
+<table>
+ <tr>
+       <td width="300">
+        <b>REACT</b>  &nbsp; SSR, GraphicsMagick, Sharp-npm   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
+        <a href="https://github.com/steenhansen/react-hover-grid#s">Repo</a><br>
+        <a href="https://www.npmjs.com/package/react-hover-grid">npm</a><br>
+        <a href="https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        </td>
+        <td width="360">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp" title="Full size video">
+                <img src="./i/short-hover.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
 
-
-[rhg_g]: https://github.com/steenhansen/react-hover-grid#s
-[rhg_n]: https://www.npmjs.com/package/react-hover-grid
-[rhg_w]: https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds
-
-| | |
-|-|-|
-| **REACT** &nbsp; SSR, GraphicsMagick, Sharp-npm  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Automatic resizing image grid_ <br>[Repo][rhg_g]   <br>  [npm][rhg_n] <br>  [Sleeping site - 150sec wake up][rhg_w]          |     [<img src="./i/short-hover.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp "Full size video")    
 
 
 [map_g]: https://github.com/steenhansen/gmap-dragdrop-react#s
