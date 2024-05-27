@@ -113,7 +113,7 @@
 
 | | |
 |-|-|
-| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]   <br><br> **KUBERNETES** <br> [Repo][sku_g]<br>  [DockerHub][sku_d]|     [<img src="./i/short-search.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
+| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]   <br><br> **KUBERNETES** <br> [Repo][sku_g]<br>  [DockerHub][sku_d]|     [<img src="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp" height="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
 
 
 [sgr_g]: https://github.com/steenhansen/sffaudio-graph-ql#s
