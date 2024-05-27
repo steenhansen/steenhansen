@@ -18,7 +18,7 @@
 </table>
 
 <table>
- <tr>
+ <tr width="684">
        <td width="240">
         <b>RUST</b> &nbsp; Terminal UI, Ratatui<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Podcast downloader with</i><br>
@@ -37,12 +37,12 @@
 <table>
  <tr>
        <td width="200">
-            <i>Web & Mobile Recipes App</i><br>
+            <i>Recipes App</i><br>
             <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
                  <img src="./i/tall-phone-android.webp" width="200">
             </a>   
         </td>
-        <td width="90" style="vertical-align:top">
+        <td width="90">
           <br><b>REACT&nbsp;NATIVE</b><br>
             MongoDB <br> 
             OAuth2<br> 
@@ -51,9 +51,10 @@
             <a href="https://github.com/steenhansen/react-native-phone-recipes#s">Repo</a><br>
             <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br>
             <img src="./i/google-icon-48.png" width="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br><br><br><br><br>
         </td>
-        <td width="90" align="right"  style="vertical-align:bottom">
-           <br><b>NODE.JS</b><br>
+        <td width="90" align="right"  >
+           <br><br><br><br><br><br><b>NODE.JS</b><br>
             Vite SSR<br>
             Mocha<br>
             Vitest JSX<br>
