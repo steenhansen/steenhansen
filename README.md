@@ -208,6 +208,22 @@
 [iso_g]: https://github.com/steenhansen/Isomorphic-React-on-Heroku#s
 [pod_h]: https://sffaudio.herokuapp.com/podcast/table
 
+<table>
+ <tr>
+       <td width="260">
+        <b>REACT</b>  &nbsp; Responsive, Prototypes   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>SSR version of FixedDataTable</i><br>  
+        <a href="https://github.com/steenhansen/Isomorphic-React-on-Heroku#s">Repo</a><br>
+        <a href="https://sffaudio.herokuapp.com/podcast/table/">Running site</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp" title="Full size video">
+                <img src="./i/short-iso.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
+
+
 | | |
 |-|-|
 | **REACT** &nbsp; Responsive, Prototypes <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_SSR version of FixedDataTable_ <br>[Repo][iso_g]   <br>  [Running site][pod_h]          |     [<img src="./i/short-iso.webp" height="100">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp "Full size video")    
