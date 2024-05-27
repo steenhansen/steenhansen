@@ -211,7 +211,8 @@
 <table>
  <tr>
        <td width="260">
-        <b>REACT</b>  &nbsp; Responsive, Prototypes   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>SSR version of FixedDataTable</i><br>  
+        <b>REACT</b>  &nbsp; Responsive, Prototypes   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>SSR version of
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FixedDataTable</i><br>  
         <a href="https://github.com/steenhansen/Isomorphic-React-on-Heroku#s">Repo</a><br>
         <a href="https://sffaudio.herokuapp.com/podcast/table/">Running site</a>
         </td>
