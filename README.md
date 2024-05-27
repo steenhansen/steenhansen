@@ -63,7 +63,7 @@
         </td>
         <td width="200" align="center">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-web.gif" title="Full size video">
-                <img src="./i/tall-phone-web.gif" width="200">
+                <img src="./i/tall-phone-web.gif" width="180">
             </a>        
         </td>
     </tr>
