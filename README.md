@@ -143,7 +143,7 @@
 <table>
  <tr>
        <td width="300">
-        <b>TYPESCRIPT</b>  &nbsp; Websockets, Redux   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
+        <b>TYPESCRIPT</b>  &nbsp; Websockets, Redux   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
         <a href="https://github.com/steenhansen/electric-snakes#s">Repo</a><br>
         <a href="https://electric-snakes.onrender.com/create-game/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
         </td>
