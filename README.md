@@ -74,7 +74,7 @@
 
 <table>
  <tr>
-       <td width="200">
+       <td width="260">
         <b>GO</b>  &nbsp; Fyne, Channels, Goroutines    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <i>podcast downloader</i><br>  
         <a href="https://github.com/steenhansen/go-podcast-downloader#s">Repo</a>
         </td>
