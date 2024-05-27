@@ -104,16 +104,25 @@
 
 
 
-
-[sli_g]: https://github.com/steenhansen/sffaudio-search-docker-compose#s
-[swi_d]: https://hub.docker.com/r/steenhansen/sff-audio-search
-[sli_w]: http://45.79.183.31/?author=isaac-asimov
-[sku_g]: https://github.com/steenhansen/sffaudio-search-kubernetes#s
-[sku_d]: https://hub.docker.com/r/steenhansen/sff-audio-kube
-
-| | |
-|-|-|
-| **DOCKER** &nbsp; SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Audiobook search_ <br>[Repo][sli_g]          <br>    [DockerHub][swi_d]    <br>   [Running site][sli_w]   <br><br> **KUBERNETES** <br> [Repo][sku_g]<br>  [DockerHub][sku_d]|     [<img src="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp" height="200">](https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp "Full size video")    
+<table>
+ <tr>
+       <td width="260">
+        <b>DOCKER</b>  &nbsp;SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Audiobook search</i><br>  
+        <a href="https://github.com/steenhansen/sffaudio-search-docker-compose#s">Repo</a><br>
+        <a href="https://hub.docker.com/r/steenhansen/sff-audio-search">DockerHub</a><br>
+        <a href="http://45.79.183.31/?author=isaac-asimov">Running site</a>
+        <br><br>
+         <b>KUBERNETES</b><br>  
+        <a href="https://github.com/steenhansen/sffaudio-search-kubernetes#s">Repo</a><br>
+        <a href="https://hub.docker.com/r/steenhansen/sff-audio-kube">DockerHub</a><br>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp" title="Full size video">
+                <img src="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp" height="200">
+            </a>      
+        </td>
+    </tr>
+</table>
 
 
 [sgr_g]: https://github.com/steenhansen/sffaudio-graph-ql#s
