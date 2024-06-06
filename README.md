@@ -251,3 +251,19 @@
         </td>
     </tr>
 </table>
+
+<table>
+ <tr>
+       <td width="280">
+        <b>PHP</b>  &nbsp; <i>Google Sheets as user authentication<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and authorization database for<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a WordPress site</i><br>  
+        <a href="https://github.com/steenhansen/php-google-api-example">Repo</a><br><br>
+        </td>
+        <td width="420">
+         <a href="https://github.com/steenhansen/steenhansen/blob/main/i/tall-google-api.png" title="Full size video">
+                <img src="./i/short-google-api.png" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
