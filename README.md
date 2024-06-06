@@ -260,7 +260,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a WordPress site</i><br>  
         <a href="https://github.com/steenhansen/php-google-api-example">Repo</a><br><br>
         </td>
-        <td width="420">
+        <td width="380">
          <a href="https://github.com/steenhansen/steenhansen/blob/main/i/tall-google-api.png" title="Full size video">
                 <img src="./i/short-google-api.png" height="100">
             </a>      
