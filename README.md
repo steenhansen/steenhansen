@@ -175,7 +175,7 @@
         <b>REACT</b>  &nbsp; SSR, GraphicsMagick, Sharp   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/react-hover-grid#s">Repo</a><br>
         <a href="https://www.npmjs.com/package/react-hover-grid">npm</a><br>
-        <a href="https://react-hover-grid.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        <a href="https://steens-bucket.s3.us-east-2.amazonaws.com/lambda-hover.html">Running site</a>
         </td>
         <td width="370">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp" title="Full size video">
