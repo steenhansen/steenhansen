@@ -193,7 +193,7 @@
         <b>REACT</b>  &nbsp; Component, Gulp  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Drag on/off/between<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Maps</i><br>  
         <a href="https://github.com/steenhansen/gmap-dragdrop-react#s">Repo</a><br>
         <a href="https://www.npmjs.com/package/gmap-dragdrop-react">npm</a><br>
-        <a href="https://gmap-dragdrop-examples.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        <a href="https://steens-bucket.s3.us-east-2.amazonaws.com/lambda-maps.html">Running site</a>
         </td>
         <td width="400">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp" title="Full size video">
