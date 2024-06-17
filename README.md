@@ -228,7 +228,7 @@
        <td width="260">
         <b>JAVASCRIPT</b>  AWS Lambda <br>  
         <a href="https://github.com/steenhansen/roman-square-roots-aws-lambda#s">Repo</a><br>
-        <a href="https://single-html.s3.us-west-2.amazonaws.com/roman-lamba.html">Running site</a><br><br>
+        <a href="https://single-html.s3.us-west-2.amazonaws.com/roman-lamba.html">Running site</a><br><br><br>
         </td>
         <td width="400">
          <a href="https://github.com/steenhansen/steenhansen/blob/main/i/tall-lambda.gif" title="Full size video">
