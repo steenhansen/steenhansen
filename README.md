@@ -222,21 +222,24 @@
 
 
 
+
 <table>
  <tr>
        <td width="260">
-        <b>JAVASCRIPT</b>  &nbsp; Proxy Object  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Type checking<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;via functions</i><br>  
-        <a href="https://github.com/steenhansen/type-czech#s">Repo</a><br>
-        <a href="https://www.npmjs.com/package/type-czech">npm</a><br>
-        <a href="https://type-czech-always-on.onrender.com/#freehosting-wait-for-at-least-150-seconds">Sleeping site - 150sec wake up</a>
+        <b>JAVASCRIPT</b>  AWS Lambda <br>  
+        <a href="https://github.com/steenhansen/roman-square-roots-aws-lambda#s">Repo</a><br>
+        <a href="https://single-html.s3.us-west-2.amazonaws.com/roman-lamba.html">Running site</a><br><br>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-czech.webp" title="Full size video">
-                <img src="./i/tall-czech.webp" height="100">
+         <a href="https://github.com/steenhansen/steenhansen/blob/main/i/tall-lambda.gif" title="Full size video">
+                <img src="./i/short-lambda.gif" height="100">
             </a>      
         </td>
     </tr>
 </table>
+
+
+
 
 <table>
  <tr>
