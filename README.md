@@ -1,4 +1,21 @@
 
+
+
+<table>
+ <tr>
+       <td width="260">
+        <b>ELIXIR</b> &nbsp; AWS CDK, TypeScript <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>AWS CDK TypeScript example with Lambdas, DynamoBD, and CloudFront</i><br>  
+        <a href="https://github.com/steenhansen/AWS-CDK-in-Practice_example#s">Repo</a><br>
+        <a href="https://front-prod.steenhansen.click/index.html">Running site</a>
+        </td>
+        <td width="400">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp" title="Full size video">
+                <img src="./i/short-elixir.webp" height="100">
+            </a>      
+        </td>
+    </tr>
+</table>
+
 <table>
  <tr>
        <td width="260">
