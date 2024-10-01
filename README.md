@@ -10,7 +10,7 @@
         </td>
         <td width="400">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-cdk.webp" title="Full size video">
-                <img src="./i/short-elixir.webp" height="100">
+                <img src="./i/tall-cdk.webp" height="100">
             </a>      
         </td>
     </tr>
