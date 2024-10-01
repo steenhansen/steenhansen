@@ -9,7 +9,7 @@
         <a href="https://front-prod.steenhansen.click/index.html">Running site</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp" title="Full size video">
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-cdk.webp" title="Full size video">
                 <img src="./i/short-elixir.webp" height="100">
             </a>      
         </td>
