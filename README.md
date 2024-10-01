@@ -3,18 +3,19 @@
 
 <table>
  <tr>
-       <td width="260">
+       <td width="360">
         <b>AWS CDK</b> &nbsp; Local TypeScript Development <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Lambdas, DynamoBD, and CloudFront</i><br>  
         <a href="https://github.com/steenhansen/AWS-CDK-in-Practice_example#s">Repo</a><br>
         <a href="https://front-prod.steenhansen.click/index.html">Running site</a>
         </td>
-        <td width="400">
+        <td width="300">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-cdk.webp" title="Full size video">
                 <img src="./i/tall-cdk.webp" height="100">
             </a>      
         </td>
     </tr>
 </table>
+
 
 
 <table>
