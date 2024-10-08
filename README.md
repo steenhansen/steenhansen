@@ -81,12 +81,17 @@
             </a>        
         </td>
     </tr>
-   <tr>
-  <td align="center"><picture><img src="./i/selenium.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Code</a></td>
-        <td colspan="2"  align="center"><picture><img src="./i/storybook.png" width="200">&nbsp;</picture><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a></td>
+<tr>
+  <td align="center">
+         <picture><img src="./i/storybook.png" width="200">&nbsp;</picture><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a>
+    </td>
+        <td colspan="2"  align="center">
+    <picture><img src="./i/selenium.webp" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Test Run</a>
+        </td>
         <td  align="center"><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
     </tr>
 </table>
+
 
 
 <table>
