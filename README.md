@@ -287,3 +287,33 @@
         </td>
     </tr>
 </table>
+
+
+<table>
+  <tr>
+       <td width="660">
+        <a href="https://web.archive.org/web/20110204235449/http://hansendisplays.com/"
+         >Hansen Displays, 1/3 Owner</a>
+         &nbsp;-&nbsp;
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/hansen-displays-brochure_us.pdf"
+         >Price List</a>
+        &nbsp;-&nbsp;
+        <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/hansen-displays-photo.jpg"
+         >Post Card</a>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+       <td width="660">
+        <a href="https://forums.atariage.com/topic/287343-the-persistent-ram-cartridge/#comment-5075938"
+         >Intra-Tech, 1/3 Owner</a>
+         &nbsp;-&nbsp;
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/persistant-ram-front.jpg"
+         >Cartridge Front</a>
+           &nbsp;-&nbsp;
+         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/persistant-ram-chips.jpg"
+         >Cartridge Chips</a>
+  </tr>
+</table>
