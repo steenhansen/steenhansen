@@ -3,7 +3,7 @@
 <table>
  <tr>
        <td width="400">
-        <b>AWS CDK</b> &nbsp; Local TypeScript Development with CI/CD<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Lambdas, DynamoBD, and CloudFront</i><br>  
+        <b>AWS CDK ----- </b> &nbsp; Local TypeScript Development with CI/CD<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Lambdas, DynamoBD, and CloudFront</i><br>  
         <a href="https://github.com/steenhansen/AWS-CDK-in-Practice-example#s">Repo</a><br>
         <a href="https://front-prod.steenhansen.click/index.html">Running site</a>
         </td>
