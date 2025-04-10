@@ -113,7 +113,7 @@
        <td width="260">
         <b>RXJS</b>  &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/rxjs-breakout#s">Repo</a><br>
-        <a href="https://steenhansen.github.io/gh-pages/">Running site</a>
+        <a href="https://steenhansen.github.io/rxjs-breakout/">Running site</a>
         </td>
         <td width="400">
          <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp" title="Full size video">
