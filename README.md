@@ -8,7 +8,7 @@
         <a href="https://front-prod.steenhansen.click/index.html">Running site</a>
         </td>
         <td width="260">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-cdk.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-cdk.webp" title="Full size video">
                 <img src="./i/tall-cdk.webp" height="100">
             </a>      
         </td>
@@ -24,7 +24,7 @@
         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name">Running site</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-elixir.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-elixir.webp" title="Full size video">
                 <img src="./i/short-elixir.webp" height="100">
             </a>      
         </td>
@@ -40,7 +40,7 @@
         <a href="https://github.com/steenhansen/rust-podcast-downloader#s">Repo</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rust.gif" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-rust.gif" title="Full size video">
                 <img src="./i/short-rust.webp" height="100">
             </a>      
         </td>
@@ -52,7 +52,7 @@
  <tr>
        <td width="200">
             <i>Recipes App</i><br>
-            <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-android.webp" title="Full size video">
+            <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-phone-android.webp" title="Full size video">
                  <img src="./i/tall-phone-android.webp" width="200">
             </a>   
         </td>
@@ -76,7 +76,7 @@
             <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running&nbsp;site</a><br><br>
         </td>
         <td width="200" align="center">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-phone-web.gif" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-phone-web.gif" title="Full size video">
                 <img src="./i/tall-phone-web.gif" width="180">
             </a>        
         </td>
@@ -86,7 +86,7 @@
          <picture><img src="./i/storybook.png" width="200">&nbsp;</picture><a href="https://6269af43d179dc004af9a1ec-ltzwmhwlbd.chromatic.com/?path=/story/pages-minimalpage--minimal-page">Storybook site</a>
     </td>
         <td colspan="2"  align="center">
-    <picture> <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/selenium.webp" title="Full size video"><img src="./i/selenium.webp" width="200"></a></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Test Run</a>
+    <picture> <a href="https://steen-images.s3.us-west-2.amazonaws.com/selenium.webp" title="Full size video"><img src="./i/selenium.webp" width="200"></a></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Test Run</a>
         </td>
         <td  align="center"><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
     </tr>
@@ -101,7 +101,7 @@
         <a href="https://github.com/steenhansen/go-podcast-downloader#s">Repo</a><br><br>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-go.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-go.webp" title="Full size video">
                 <img src="./i/short-go.webp" height="100">
             </a>      
         </td>
@@ -117,7 +117,7 @@
         <a href="https://steenhansen.github.io/gh-pages/">Running site</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-rxjs.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-rxjs.webp" title="Full size video">
                 <img src="./i/short-rxjs.webp" height="100">
             </a>      
         </td>
@@ -139,8 +139,8 @@
         <a href="https://hub.docker.com/r/steenhansen/sff-audio-kube">DockerHub</a><br>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp" title="Full size video">
-                <img src="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-search.webp" height="200">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-search.webp" title="Full size video">
+                <img src="https://steen-images.s3.us-west-2.amazonaws.com/tall-search.webp" height="200">
             </a>      
         </td>
     </tr>
@@ -154,7 +154,7 @@
         <a href="https://sffaudio-graph-ql.onrender.com/graphiql?operationName=serch_ql&query=query%20serch_ql(%24search_parameter%3A%20String!)%20%7B%0A%20%20search_site_content(search_text%3A%20%24search_parameter)%20%7B%0A%20%20%20%20%20%20...%20on%20ArticlePage%7B%20ID%20headline%20article_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20MentionPage%7B%20ID%20headline%20mention_post%20%20%20%7D%2C%0A%20%20%20%20...%20on%20RsdMedia%20%7B%20ID%20rsd_post%20resource%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20book%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%2C%0A%20%20%20%20...%20on%20SffAudioMedia%20%7B%20ID%20sffaudio_post%20narrator%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20possiblebook%7B%20author%20title%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20podcast%20%7B%20description%20mp3%20length%20episode%20%7D%20%20%20%7D%0A%20%20%7D%0A%7D%0A&variables=%7B%0A%20%20%22search_parameter%22%3A%20%22Clarke%22%0A%7D">Sleeping site - 150sec wake up</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-graph.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-graph.webp" title="Full size video">
                 <img src="./i/short-graph.webp" height="100">
             </a>      
         </td>
@@ -184,7 +184,7 @@
         <a href="https://github.com/steenhansen/podcast-downloader#s">Repo</a><br><br>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-delphi.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-delphi.webp" title="Full size video">
                 <img src="./i/short-delphi.webp" height="100">
             </a>      
         </td>
@@ -200,7 +200,7 @@
         <a href="https://steens-bucket.s3.us-east-2.amazonaws.com/lambda-hover.html">Running site</a>
         </td>
         <td width="370">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-hover.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-hover.webp" title="Full size video">
                 <img src="./i/short-hover.webp" height="100">
             </a>      
         </td>
@@ -218,7 +218,7 @@
         <a href="https://steens-bucket.s3.us-east-2.amazonaws.com/lambda-maps.html">Running site</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-drag.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-drag.webp" title="Full size video">
                 <img src="./i/short-drag.webp" height="100">
             </a>      
         </td>
@@ -235,7 +235,7 @@
         <a href="https://sffaudio.herokuapp.com/podcast/table/">Running site</a>
         </td>
         <td width="400">
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/tall-iso.webp" title="Full size video">
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-iso.webp" title="Full size video">
                 <img src="./i/short-iso.webp" height="100">
             </a>      
         </td>
@@ -300,10 +300,10 @@
         <a href="https://web.archive.org/web/20110204235449/http://hansendisplays.com/"
          >Hansen Displays, 1/3 Owner</a>
          &nbsp;-&nbsp;
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/hansen-displays-brochure_us.pdf"
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/hansen-displays-brochure_us.pdf"
          >Price List</a>
         &nbsp;-&nbsp;
-        <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/hansen-displays-photo.jpg"
+        <a href="https://steen-images.s3.us-west-2.amazonaws.com/hansen-displays-photo.jpg"
          >Post Card</a>
   </tr>
 </table>
@@ -315,10 +315,10 @@
         <a href="https://forums.atariage.com/topic/287343-the-persistent-ram-cartridge/#comment-5075938"
          >Intra-Tech, 1/3 Owner</a>
          &nbsp;-&nbsp;
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/persistant-ram-front.jpg"
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/persistant-ram-front.jpg"
          >Cartridge Front</a>
            &nbsp;-&nbsp;
-         <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/persistant-ram-chips.jpg"
+         <a href="https://steen-images.s3.us-west-2.amazonaws.com/persistant-ram-chips.jpg"
          >Cartridge Chips</a>
   </tr>
 </table>
