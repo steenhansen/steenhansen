@@ -5,7 +5,6 @@
        <td width="400">
         <b>AWS CDK ----- </b> &nbsp; Local TypeScript Development with CI/CD<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Lambdas, DynamoBD, and CloudFront</i><br>  
         <a href="https://github.com/steenhansen/AWS-CDK-in-Practice-example#s">Repo</a><br>
-        <a href="https://front-prod.steenhansen.click/index.html">Running site</a>
         </td>
         <td width="260">
          <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-cdk.webp" title="Full size video">
@@ -21,7 +20,6 @@
        <td width="260">
         <b>ELIXIR</b> &nbsp; Phoenix, LiveView <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Multiplayer game</i><br>  
         <a href="https://github.com/steenhansen/elixir-liveview-snake#s">Repo</a><br>
-        <a href="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/Projects-Game/Players-Name">Running site</a>
         </td>
         <td width="400">
          <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-elixir.webp" title="Full size video">
@@ -72,7 +70,6 @@
             Mocha<br>
             Vitest JSX<br>
             <a href="https://github.com/steenhansen/type-czech-phone-recipes#s">Repo</a> <br> 
-            <a href="https://phone-recipes.herokuapp.com/steenhansen1942/gmail.com">Running&nbsp;site</a><br><br>
         </td>
         <td width="200" align="center">
          <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-phone-web.gif" title="Full size video">
@@ -131,7 +128,6 @@
         <b>DOCKER</b>  &nbsp;SVG, Neo4j GraphDB   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>SPA Audiobook search</i><br>  
         <a href="https://github.com/steenhansen/sffaudio-search-docker-compose#s">Repo</a><br>
         <a href="https://hub.docker.com/r/steenhansen/sff-audio-search">DockerHub</a><br>
-        <a href="http://45.79.183.31/?author=isaac-asimov">Running site</a>
         <br><br>
          <b>KUBERNETES</b><br>  
         <a href="https://github.com/steenhansen/sffaudio-search-kubernetes#s">Repo</a><br>
