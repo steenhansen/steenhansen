@@ -63,7 +63,6 @@
             React&nbsp;Hooks<br>
             Redux<br>
             <a href="https://github.com/steenhansen/react-native-phone-recipes#s">Repo</a><br>
-            <a href="https://play.google.com/store/apps/details?id=com.fonecook3">Google&nbsp;Play</a><br>
             <img src="./i/google-icon-48.png" width="24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br><br><br><br><br>
         </td>
@@ -114,7 +113,7 @@
        <td width="260">
         <b>RXJS</b>  &nbsp; Canvas, Immutablejs   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Multi ball breakout game</i><br>  
         <a href="https://github.com/steenhansen/rxjs-breakout#s">Repo</a><br>
-        <a href="https://steenhansen.github.io/gh-pages/">Running site</a>
+        <a href="https://steenhansen.github.io/rxjs-breakout/">Running site</a>
         </td>
         <td width="400">
          <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-rxjs.webp" title="Full size video">
