@@ -22,7 +22,7 @@
         <a href="https://github.com/steenhansen/elixir-liveview-snake#s">Repo</a><br>
         </td>
         <td width="400">
-         <a href="https://steen-images.s3.us-west-2.amazonaws.com/tall-elixir.webp" title="Full size video">
+         <a href="https://file.garden/aFRi5x2D4TDUTvOr/tall-elixir.webp" title="Full size video">
                 <img src="./i/short-elixir.webp" height="100">
             </a>      
         </td>
