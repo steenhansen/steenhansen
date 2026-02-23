@@ -186,7 +186,7 @@
         <td colspan="2"  align="center">
     <picture> <a href="https://file.garden/aFRi5x2D4TDUTvOr/selenium.webp" title="Full size video"><img src="./i/selenium.webp" width="200"></a></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/tree/main/test-selenium">Selenium Test Run</a>
         </td>
-        <td  align="center"><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/8317745868/job/23219385924">CI/CD site</a></td>
+        <td  align="center"><picture><img src="./i/ci-cd.png" width="200"></picture><br><a href="https://github.com/steenhansen/type-czech-phone-recipes/actions/runs/22290008151/job/64475462817">CI/CD site</a></td>
     </tr>
 </table>
 
