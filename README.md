@@ -2,7 +2,7 @@
 
 <table>
  <tr>
-       <td width="405">
+       <td width="400">
         <b>JavaScript</b> &nbsp; Three.js and WebGL<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>3D Game using Three.js and WebGL</i><br>  
         <a href="https://github.com/steenhansen/webgl-game#s">Repo</a><br>
                 <a href="https://steenhansen.github.io/webgl-game/index.html">Running site</a>
@@ -23,7 +23,7 @@
 
 <table>
  <tr>
-       <td width="440">
+       <td width="400">
         <b>JavaScript</b> &nbsp; SVG, Animations, CSS Variables <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Vanilla 3D Game</i><br>  
         <a href="https://github.com/steenhansen/3d-game#s">Repo</a><br>
                 <a href="https://steenhansen.github.io/3d-game/">Running site</a>
