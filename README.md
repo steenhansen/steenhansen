@@ -5,11 +5,11 @@
        <td width="400">
         <b>JavaScript</b> &nbsp; Three.js and WebGL<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>3D Game using Three.js and WebGL</i><br>  
         <a href="https://github.com/steenhansen/webgl-game#s">Repo</a><br>
-                <a href="https://steenhansen.github.io/webgl-game/index.html">Running site</a>
+                <a href="https://steenhansen.github.io/webgl-game/index.html?map=2">Running site</a>
         </td>
         <td width="260">
-         <a href="https://file.garden/aFRi5x2D4TDUTvOr/round-and-round.gif" title="Full size video">
-                <img src="./i/round-and-round.gif" height="100">
+         <a href="https://file.garden/aFRi5x2D4TDUTvOr/hexes-1.webp" title="Full size video">
+                <img src="./i/hexes-1.webp" height="100">
             </a>      
         </td>
     </tr>
