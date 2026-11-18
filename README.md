@@ -29,7 +29,7 @@
                 <a href="https://steenhansen.github.io/3d-game/">Running site</a>
         </td>
         <td width="260">
-         <a href="https://file.garden/aFRi5x2D4TDUTvOr/tall-cdk.webp" title="Full size video">
+         <a href="https://file.garden/aFRi5x2D4TDUTvOr/3d-game.gif" title="Full size video">
                 <img src="./i/git-size.webp" height="100">
             </a>      
         </td>
